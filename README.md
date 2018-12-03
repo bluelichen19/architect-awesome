@@ -1,6 +1,6 @@
 
 <h1>《后端架构师技术图谱》</h1>
-![Material Theme](https://ask.qcloudimg.com/http-save/yehe-1216491/ysjciqp96u.png?imageView2/2/w/1620)
+![Material Theme](https://ask.qcloudimg.com/http-save/yehe-1216491/ysjciqp96u.png)
 
 
 
